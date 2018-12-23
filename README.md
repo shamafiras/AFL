@@ -1,2 +1,2 @@
 # AFL
-(WIP) source code of Adversarial Feedback Loop Paper
+(WIP) source code of Adversarial Feedback Loop paper
