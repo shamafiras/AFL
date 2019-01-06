@@ -1,10 +1,6 @@
 import os
 from skimage import io
 from torch.utils.data import Dataset
-import numpy as np
-from torchvision import transforms
-import torch
-from PIL import Image
 
 
 class CelebADataSet(Dataset):
