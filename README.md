@@ -10,9 +10,29 @@ Firas Shama, [Roey Mechrez](http://cgm.technion.ac.il/people/Roey/), Alon Shosha
 <b>The Adversarial Feedback Loop</b>
 </div>
 
-### Enhance face generation:
+### Improves quality of GANs (CIFAR10):
+
+<img src="readme/cifar10.png" width="600px"/>
+
+### Improves face generation (CelebA):
 
 <img src="readme/faces.gif" width="1058px"/>
+
+### Improves super-resolution:
+
+
+
+| <img src="readme/1Guppy_2_loop_0_box.png" width="496px"/> |<img src="readme/1Guppy_2_loop_3_box.png" width="496px"/><br>|
+|:---:|:---:|
+|<b>Baseline</b> | <b>Ours</b>|
+
+
+
+| <img src="readme/1_Guppy_2_HR_croped_crop.png" width="81px"/> | <img src="readme/1_Guppy_2_loop_0_crop.png" width="81px"/> | <img src="readme/1_Guppy_2_loop_1_crop.png" width="81px"/> | <img src="readme/1_Guppy_2_loop_2_crop.png" width="81px"/> | <img src="readme/1_Guppy_2_loop_3_crop.png" width="81px"/> |
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| <b>GT</b> | <b>Baseline</b> | <b>iter1</b> | <b>iter2</b> | <b>iter3</b> |
+
+
 
 ### Code usage
 The repository includes the source code used for the paper.
