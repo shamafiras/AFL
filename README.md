@@ -10,9 +10,11 @@ Firas Shama, [Roey Mechrez](http://cgm.technion.ac.il/people/Roey/), Alon Shosha
 <b>The Adversarial Feedback Loop</b>
 </div>
 
-### Improves quality of GANs (CIFAR10):
 
+### Improves quality of GANs (CIFAR10):
+<div align='center'>
 <img src="readme/cifar10.png" width="600px"/>
+</div>
 
 ### Improves face generation (CelebA):
 
