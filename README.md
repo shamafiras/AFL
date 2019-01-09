@@ -1,9 +1,9 @@
 # Adversarial Feedback Loop
-[[ArXiv]](https://arxiv.org/pdf/1811.08126)  [project page(WIP)]
+[<b>[ArXiv]</b>](https://arxiv.org/pdf/1811.08126)  [<b>[project page]</b>](https://cgm.technion.ac.il/Computer-Graphics-Multimedia/Software/AFL/)
 
-Official repository of Adversarial Feedback Loop paper<br>
+<b>Official repository of Adversarial Feedback Loop paper<br>
 Firas Shama, [Roey Mechrez](http://cgm.technion.ac.il/people/Roey/), Alon Shoshan, [Lihi Zelnik-Manor](http://lihi.eew.technion.ac.il/)<br>
-[Technion - Israel Institute of Technology](http://cgm.technion.ac.il/)
+[Technion - Israel Institute of Technology](http://cgm.technion.ac.il/)</b>
 
 <div align='center'>
 <img src="readme/abstract.png" width="600px"/><br>
